@@ -1,6 +1,6 @@
 **Music Product System**
 
-**Demo https://github.com/user-attachments/assets/53b94a86-ba48-41a4-8914-b8fee862d3dd**
+**Demo: https://github.com/user-attachments/assets/dff9e611-4fbd-4fc5-b00d-ab4d14a01d99**
 
 **Node Version**: 18.x (LTS recommended)
 
